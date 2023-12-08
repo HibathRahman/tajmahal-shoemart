@@ -214,37 +214,37 @@ const reviewList = [
     img: "man_dp1.jpg",
     name: "Hibath",
     comment:
-      " One Of The Best Product to  wear and its compfort , smooth , suitable for playing  ",
+      "Very Nice Product  ",
   },
   {
     img: "man_dp3.jpg",
     name: "Naseem",
     comment:
-      " One Of The Best Product to  wear and its compfort , smooth , suitable for playing  ",
+      " Nice To Wear ... ",
   },
   {
     img: "man_dp2.jpg",
     name: "Yusuf",
     comment:
-      " One Of The Best Product to  wear and its compfort , smooth , suitable for playing  ",
+      "suitable for playing",
   },
   {
     img: "man_dp1.jpg",
     name: "Riyas",
     comment:
-      " One Of The Best Product to  wear and its compfort , smooth , suitable for playing  ",
+      "its compfort,smooth..",
   },
   {
     img: "man_dp1.jpg",
     name: "Faisal",
     comment:
-      " One Of The Best Product to  wear and its compfort , smooth , suitable for playing  ",
+      " Good Product ",
   },
   {
     img: "man_dp1.jpg",
     name: "Hilman",
     comment:
-      " One Of The Best Product to  wear and its compfort , smooth , suitable for playing  ",
+      "Worth Money",
   },
 ];
 
